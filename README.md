@@ -8,7 +8,7 @@
 * [Features](#features)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
-* [Inspiration](#inspiration)
+* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 <!-- * [Setup](#setup) -->
 
@@ -57,10 +57,10 @@ To do:
 - Add messages to inform users when a certain action is completed e.g editing a post - to improve the user experience.
 
 
-## Inspiration
+## Acknowledgements
 - This project was based on [this tutorial](https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/).
 - Many thanks to [Vitor Freitas](https://github.com/vitorfs) for coming up with such a comprehensive beginner's guide and to my friend Byron, who shared it with me, enabling me to take the next steps in my Developer Journey when I was just starting out.
 
 
 ## Contact
-Created by [Peter Kibuchi](https://peterkibuchi.com) - feel free to get in touch.
+Created by [Peter Kibuchi](https://www.peterkibuchi.com).
