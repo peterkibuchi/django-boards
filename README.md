@@ -1,5 +1,5 @@
 # Django Boards
-> A discussion board (forum) where users can start a new discussion by creating a new topic or engage in the discussion by posting replies.
+> A discussion board (forum) where users can start a new discussion by creating a new topic or engage in a discussion by posting replies.
 > Live demo [_here_](https://django-boards-unchained.herokuapp.com/).
 
 ## Table of Contents
