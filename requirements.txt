@@ -7,5 +7,5 @@ Markdown==3.2.2
 psycopg2==2.8.6
 python-decouple==3.3
 pytz==2020.1 # Automatically installed
-sqlparse==0.4.4 # Automatically installed
+sqlparse==0.5.0 # Automatically installed
 whitenoise==5.2.0
